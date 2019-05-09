@@ -1,0 +1,4 @@
+8. What file contains the RSA keys of systems that are authorized to connect via SSH?
+ssh-copy-id hgyselle@debi
+/.ssh/authorized_keys
+

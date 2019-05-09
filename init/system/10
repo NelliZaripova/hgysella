@@ -1,0 +1,4 @@
+10. Name the command that lists the partition tables of drives?
+lsblk
+su - (enter) sfdisk -l /dev/sda
+

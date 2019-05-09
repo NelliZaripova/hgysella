@@ -1,0 +1,9 @@
+3. Three’s a Charm. Write a script of you choice.
+#!/bin/bash
+user=username
+if grep $user /etc/passwd
+then
+echo "The user $user Exists"
+else
+echo "The user $user Not Exists"
+fi

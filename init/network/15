@@ -1,0 +1,3 @@
+15. Make the intra.42.fr address reroute to 46.19.122.85
+add line 46.19.122.85 intra.42.fr to etc/hosts
+

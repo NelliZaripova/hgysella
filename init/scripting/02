@@ -1,0 +1,4 @@
+2. Write a script which delete an ACTIVE user on the VM.
+#!/bin/bash
+userdel -r username
+

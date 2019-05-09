@@ -1,0 +1,3 @@
+21. List all real users on the VM
+cat /etc/passwd | grep '/home/'
+

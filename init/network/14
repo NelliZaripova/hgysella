@@ -1,0 +1,3 @@
+14. What file contains the local DNS entries?
+cat /etc/hosts 
+

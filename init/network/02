@@ -1,0 +1,6 @@
+2. Identify and display the Ethernet interface characteristics:
+(a) Indentify broadcast address
+(b) Indentify all IP adresses which are part of the same subnet
+a) ifconfig en0 | grep "inet " | cut -d " " -f 6
+b) arp -a 
+

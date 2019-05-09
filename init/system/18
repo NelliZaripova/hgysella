@@ -1,0 +1,3 @@
+18. Find the command that kills ssh service
+/etc/init.d/ssh stop
+

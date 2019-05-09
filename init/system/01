@@ -1,0 +1,6 @@
+1. In what file can you find the installed version of your Debian?
+cat /etc/issue.net
+lsb_release -da
+hostnamectl
+	Debian GNU/Linux 9
+
