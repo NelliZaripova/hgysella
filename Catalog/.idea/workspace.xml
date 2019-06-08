@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f9c2898-fae6-42bc-8f0e-20f881d1ac3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gnl/libft" beforeDir="false" afterPath="$PROJECT_DIR$/../gnl/libft" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../php/day02/hgysella" beforeDir="false" afterPath="$PROJECT_DIR$/../php/day02/hgysella" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../php/rush00/hgysella" beforeDir="false" afterPath="$PROJECT_DIR$/../php/rush00/hgysella" afterDir="false" />
@@ -242,8 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,6 +278,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,11 +427,13 @@
       <workItem from="1557404794748" duration="473000" />
       <workItem from="1557405277951" duration="4494000" />
       <workItem from="1557413908857" duration="30000" />
+      <workItem from="1557414047983" duration="4000" />
+      <workItem from="1558453336008" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76669000" />
+    <option name="totallyTimeSpent" value="76681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -444,14 +446,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="923" y="48" width="1491" height="1251" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5012854" side_tool="true" weight="0.24901704" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49871466" visible="true" weight="0.2774327" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49871466" visible="true" weight="0.28433403" />
       <window_info id="Structure" order="6" sideWeight="0.5012854" side_tool="true" weight="0.24901704" />
       <window_info id="Web" order="7" sideWeight="0.5012854" side_tool="true" weight="0.24901704" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -634,47 +635,15 @@
     </entry>
     <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/postgres/schema/public/table/fix_car" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/limit/db/model/Car.java" />
-    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/postgres/schema/public/table/fix_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/postgres/schema/public/table/fix_user" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/mod2.html" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/mod3.html" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/mod4.html" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/mod1.html" />
-    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/tele/schema/new_schema/table/tv_show">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/tele/schema/new_schema/table/channel">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/tele/schema/new_schema/table/tv_show" />
+    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/tele/schema/new_schema/table/channel" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/addUser.jsp" />
-    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/postgres/schema/public/table/users_bd">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true">
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/postgres/schema/public/table/users_bd" />
     <entry file="das://2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/database/postgres/schema/public/table/roles" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2f5e8b79-ec6c-4b69-8f19-acbcabe279d8/console.sql">
       <provider selected="true" editor-type-id="text-editor">
@@ -763,6 +732,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/limit/db/servlets/UserInfoWithDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/userinfo.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -774,13 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="86" selection-start-line="35" selection-start-column="86" selection-end-line="35" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/limit/db/servlets/UserInfoWithDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
         </state>
       </provider>
     </entry>
